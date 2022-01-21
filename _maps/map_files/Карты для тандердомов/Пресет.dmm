@@ -1,0 +1,60 @@
+"a" = (/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"q" = (/turf/unsimulated/floor{icon_state = "darkred"},/area/space)
+"I" = (/turf/unsimulated/floor{icon_state = "darkblue"},/area/space)
+"N" = (/obj/structure/statue/sandstone/assistant,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaNaaaaaaa
+qqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+IIIIIIIIIIIIIII
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+qqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+IIIIIIIIIIIIIII
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+qqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+IIIIIIIIIIIIIII
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+qqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+IIIIIIIIIIIIIII
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+qqqqqqqqqqqqqqq
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+IIIIIIIIIIIIIII
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+"}

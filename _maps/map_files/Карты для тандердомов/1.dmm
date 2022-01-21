@@ -1,0 +1,160 @@
+"bN" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/kitchen/knife/combat,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"bT" = (/obj/structure/flora/ausbushes/ywflowers,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"cI" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/tree/palm,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"cY" = (/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"eb" = (/obj/structure/chair/comfy/brown{dir = 8},/turf/simulated/floor/wood,/area/adminconstruction)
+"eN" = (/obj/structure/flora/bush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"eS" = (/obj/machinery/door/poddoor{id_tag = "start_game"},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"fl" = (/obj/item/gun/projectile/bow,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"fH" = (/obj/structure/flora/tree/palm,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"fI" = (/obj/item/clothing/head/ushanka,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/adminconstruction)
+"gw" = (/obj/machinery/vending/sovietsoda,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/adminconstruction)
+"gL" = (/obj/item/clothing/suit/armor/vest,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"hE" = (/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"ih" = (/obj/structure/table/wood,/obj/item/gun/projectile/revolver/russian,/turf/simulated/floor/wood,/area/adminconstruction)
+"in" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"iu" = (/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sparsegrass,/obj/structure/flora/ausbushes/sunnybush,/obj/structure/flora/ausbushes/ywflowers,/obj/structure/flora/ausbushes/lavendergrass,/obj/item/ammo_casing/caseless/arrow,/obj/item/stack/medical/ointment/advanced,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"iH" = (/obj/structure/flora/tree/palm,/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"jg" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/clothing/suit/armor/vest,/obj/item/stack/medical/bruise_pack/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"kO" = (/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"le" = (/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sparsegrass,/obj/structure/flora/ausbushes/sunnybush,/obj/structure/flora/ausbushes/ywflowers,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"lo" = (/obj/structure/table,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"lt" = (/turf/unsimulated/floor/grass,/area/adminconstruction)
+"lY" = (/obj/structure/flora/tree/palm,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"mk" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/sparsegrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"mM" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"mU" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"nL" = (/obj/structure/closet/wardrobe/green,/obj/item/clothing/mask/cursedclown,/obj/item/clothing/head/rice_hat,/obj/item/seeds/wheat/rice,/obj/item/clothing/shoes/sandal,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"nN" = (/mob/living/carbon/human,/turf/unsimulated/floor{icon_state = "rcircuit"},/area/adminconstruction)
+"oD" = (/obj/structure/flora/tree/palm,/obj/item/gun/energy/taser,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"pG" = (/obj/structure/mirror/magic,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"pK" = (/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"qJ" = (/obj/structure/flora/ausbushes/sunnybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"qZ" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"sy" = (/obj/machinery/door/airlock/hatch{armor = list("melee" = 100, "bullet" = 100, "laser" = 100, "energy" = 100, "bomb" = 100, "bio" = 100, "rad" = 100, "fire" = 100, "acid" = 100); desc = "For all your shady business needs"; name = "Special Shuttle"; req_access_txt = "114"},/turf/unsimulated/floor{icon_state = "floor"; tag = "icon-floor"},/area/adminconstruction)
+"sS" = (/obj/machinery/vending/cigarette,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/adminconstruction)
+"sU" = (/obj/item/gun/magic/hook,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"tj" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/pointybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"tC" = (/obj/item/gun/magic/hook,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"uc" = (/obj/structure/flora/bush,/obj/structure/flora/tree/palm,/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"ut" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/pointybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"uQ" = (/obj/item/gun/energy/taser,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"uW" = (/obj/structure/table/wood,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"vt" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/lavendergrass,/obj/item/stack/medical/ointment/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"vx" = (/obj/item/ammo_casing/caseless/arrow,/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"vD" = (/obj/item/gun/energy/gun/blueshield,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"ws" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"wL" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"wM" = (/obj/structure/mineral_door{icon_state = "uranium"},/turf/unsimulated/floor/grass,/area/adminconstruction)
+"wX" = (/obj/item/stack/medical/ointment/advanced,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"xy" = (/mob/living/simple_animal/hostile/venus_human_trap,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"yM" = (/obj/structure/flora/tree/palm,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"yN" = (/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sparsegrass,/obj/structure/flora/ausbushes/sunnybush,/obj/structure/flora/ausbushes/ywflowers,/obj/structure/flora/ausbushes/lavendergrass,/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"yR" = (/obj/item/gun/projectile/bow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Ab" = (/obj/item/stack/medical/ointment/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Ao" = (/obj/item/kitchen/knife/combat,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"As" = (/obj/structure/closet/wardrobe/pink,/obj/item/clothing/mask/bandana/green,/obj/item/clothing/head/greenbandana,/obj/item/clothing/shoes/jackboots,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"Ax" = (/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"Az" = (/obj/structure/table,/obj/item/reagent_containers/food/drinks/bottle/whiskey,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"AC" = (/obj/structure/flora/ausbushes/fullgrass,/obj/item/gun/projectile/bow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Ca" = (/mob/living/simple_animal/hostile/venus_human_trap,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Cm" = (/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sparsegrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"CB" = (/obj/machinery/door_control{id = "start_game"; name = "Start game"},/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"CX" = (/obj/structure/closet/wardrobe/pink,/obj/item/clothing/mask/cursedclown,/obj/item/clothing/mask/bandana/green,/obj/item/clothing/head/greenbandana,/obj/item/clothing/shoes/jackboots,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"EE" = (/mob/living/simple_animal/hostile/venus_human_trap,/obj/item/gun/projectile/revolver/russian,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"EK" = (/obj/structure/mineral_door/wood,/turf/simulated/floor/wood,/area/adminconstruction)
+"Fj" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"FZ" = (/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/flora/ausbushes/grassybush,/obj/structure/flora/ausbushes/sparsegrass,/obj/structure/flora/ausbushes/sunnybush,/obj/structure/flora/ausbushes/ywflowers,/obj/item/stack/medical/bruise_pack/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Gd" = (/obj/structure/flora/tree/palm,/obj/structure/flora/ausbushes/grassybush,/obj/item/stack/medical/ointment/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"GF" = (/obj/item/toy/russian_revolver/trick_revolver,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"GO" = (/obj/structure/closet/wardrobe/green,/obj/item/clothing/head/rice_hat,/obj/item/seeds/wheat/rice,/obj/item/clothing/shoes/sandal,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"GU" = (/obj/structure/flora/ausbushes/sparsegrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"HE" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"HG" = (/obj/structure/table/wood,/obj/item/reagent_containers/food/drinks/bottle/vodka,/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"Ib" = (/obj/item/gun/energy/taser,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Im" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"Jn" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/stack/medical/bruise_pack/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"JO" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/restraints/legcuffs/beartrap{icon_state = "beartrap1"},/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Kd" = (/obj/item/stack/medical/bruise_pack/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"LS" = (/obj/item/clothing/suit/armor/vest,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"MH" = (/obj/item/gun/projectile/bow,/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Nx" = (/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"On" = (/mob/living/carbon/human,/turf/unsimulated/floor{icon_state = "bcircuit"},/area/adminconstruction)
+"Pj" = (/obj/item/gun/energy/taser,/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Pp" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/stack/medical/ointment/advanced,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Pt" = (/obj/structure/flora/ausbushes/lavendergrass,/obj/item/gun/projectile/bow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Pu" = (/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"Pv" = (/obj/item/clothing/suit/armor/vest,/obj/item/ammo_casing/caseless/arrow,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Px" = (/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/punji_sticks,/obj/structure/mineral_door{icon_state = "uranium"},/turf/unsimulated/floor/grass,/area/adminconstruction)
+"QA" = (/turf/unsimulated/floor{icon_state = "rcircuit"},/area/adminconstruction)
+"Rd" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/lavendergrass,/obj/structure/flora/ausbushes/fullgrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"Rz" = (/obj/structure/flora/ausbushes/pointybush,/obj/structure/flora/ausbushes/ywflowers,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Sf" = (/obj/item/restraints/legcuffs/beartrap{icon_state = "beartrap1"},/turf/unsimulated/floor/grass,/area/adminconstruction)
+"SV" = (/turf/unsimulated/wall{icon = 'icons/turf/walls/wood_wall.dmi'; icon_state = "wood"},/area/adminconstruction)
+"Um" = (/obj/structure/flora/ausbushes/fullgrass,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"UN" = (/obj/structure/chair/comfy/brown{dir = 4},/turf/simulated/floor/wood,/area/adminconstruction)
+"Vw" = (/turf/unsimulated/wall{color = "lime"},/area/adminconstruction)
+"WD" = (/obj/item/ammo_casing/caseless/arrow,/obj/structure/flora/ausbushes/lavendergrass,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"WV" = (/turf/simulated/floor/wood,/area/adminconstruction)
+"WZ" = (/obj/structure/flora/ausbushes/pointybush,/obj/structure/flora/tree/palm,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"YB" = (/obj/item/gun/projectile/bow,/obj/structure/flora/ausbushes/grassybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"YD" = (/turf/unsimulated/floor{icon_state = "bcircuit"},/area/adminconstruction)
+"ZU" = (/obj/structure/flora/ausbushes/pointybush,/turf/unsimulated/floor/grass,/area/adminconstruction)
+
+(1,1,1) = {"
+PuVwsysyVwPumUmUAxAxAxAxAxAxVwVwVw
+UmCBPuPuPukOltltAxAspKpKpKpKpKpGAx
+UmltltlYkOltltltVwAsQAQAnNQAnNpKAx
+AxltltkOkOltlYltAxAsQAQAQAnNQApKAx
+VwltVwltltVwkOltAxAsQAQAnNQAnNpKAx
+VwltVwVwltAxltltAxCXQAQApKpKpKpKAx
+RdltAbltlYAxAxltAxpKQAQApKAxAxAxAx
+mUltAokOltKdVwltVwAzlopKpKeSltltAx
+mUltcYltLSltkOltVwAxAxAxVwVwltltAx
+RdltcIkOhEflltAbkOkOkOSfkOltAoltAx
+mUSfkOcYiHltltltVwlthEcYlthEltltAx
+PultkOIbltEEAxcYVwlteNcYucltPvltAx
+UmKdkOltFjUmAxltltkOhEhEltltkOltVw
+VwVwltltVwltltkOlYltAxltVwltwLAbVw
+AxltltAbltgLkOltKdAoUmltAbltkOltVw
+VwltCakOWDeNeNAxAxUmUmcYcYAotCltAx
+UmkOkOkOkOlYeNkOSfltltvxkOltkOltAx
+HEltAoltltlthElthEltvtltkOltkOltUm
+HEltltkOAxltltltvxcYkOltAxwMAxAxUm
+HEltAxwXltZUltkOYBkOhEAxAxtjZUltUm
+HEltmUPukOPultfHinltcYmUltkOltltUm
+PultZUkOltVwKdltltltAxPultltltlYVw
+PultkOyRltltltltltAxAxvDltWZPuSfAx
+PuAxAxAxPxAxwsmUmUPultltAxltGFltAx
+UmltAxltltAxbTkOSfcYltkOyRPuhEZUAx
+PultuQltltRzltAbAxcYkOLSPpltZUZUAx
+UmAxAxgLltyMhEcYcYlthEUmPuFZZUltAx
+AxltJOyRAxZUltcYPuPultUmcYCmZUltUm
+VwltltiuUmPuSVSVSVSVSVAxcYcYPuPuUm
+AxhEZUkOyMltSVUNihebSVltlecYAoltUm
+UmltAoLSkOltEKWVWVWVEKltyRltPultPu
+UmAxUmlttjkOSVgwfIsSSVltltAbgLKdVw
+UmhEKdleltwLSVSVSVSVSVltcYltlYltAx
+FjZUUmkOhEkOltltltGUZUhEqJcYqJltAx
+PuSfkOkOGFmMkOGdcYltAxAxqJltltltUm
+PultkOAxkOltkOmkbThESfPultyMltltUm
+PuKdyRkOPpkOUmutkOltltPjcYkOgLltUm
+VwltltltltltcYZUkOPuUmPpcYyNltlYUm
+AxVwVwwMVwPuinltmMltkOltltMHqZltPu
+AxltlYltltVwPuPuVwltltltvDkOcYltPu
+VwltKdPvlthEltltVwPxVwltlYltAoltPu
+UmltVwPuPultAbltltltVwPuPultltltAx
+UmltlYEEPultltkOlYincYltPuPuPuVwAx
+PuAohEKdVwltoDltPtcYkOkOlYltltltAx
+AxNxVwAbltPvlthEltcYcYkOPpltAoltAx
+AxACltltltltltltFjPultininkOltltUm
+AxNxltVwVwVwVwVwPuAoVwltlYKdyRltUm
+PultlteSpKpKuWHGVwKdltltxyltVwltPu
+PuVwVwVwpKYDYDpKVwltltVwltkOkOltPu
+PupKpKpKpKYDYDnLPultlYVwltltyMAbAx
+UmpKOnYDOnYDYDGOVwPpkOmMkOsUkOltAx
+PupKYDOnYDYDYDGOVwkOPtkObNyMjgltVw
+PupKOnYDOnYDYDGOPultkOPukOPultltVw
+AxpGpKpKpKpKpKGOPukOkOkOJnJOltNxAx
+VwVwVwPuPuPuPuPuImImPuPuPuPuVwAxAx
+"}
