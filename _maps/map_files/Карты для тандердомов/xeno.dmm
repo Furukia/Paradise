@@ -1,0 +1,41 @@
+"a" = (/turf/space,/area/space)
+"d" = (/obj/structure/alien/weeds,/obj/structure/alien/resin/membrane,/turf/simulated/mineral,/area/ruin/unpowered)
+"g" = (/obj/structure/girder,/obj/structure/alien/weeds,/turf/simulated/mineral,/area/ruin/unpowered)
+"h" = (/turf/simulated/mineral,/area/ruin/unpowered)
+"i" = (/obj/structure/alien/weeds,/obj/structure/table_frame,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"l" = (/obj/structure/alien/weeds/node,/turf/simulated/mineral,/area/ruin/unpowered)
+"m" = (/obj/structure/alien/resin/wall,/turf/simulated/mineral,/area/ruin/unpowered)
+"n" = (/obj/structure/alien/weeds,/obj/structure/bed/nest,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"o" = (/obj/structure/alien/weeds/node,/obj/structure/table,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"t" = (/obj/structure/girder,/turf/simulated/mineral,/area/ruin/unpowered)
+"v" = (/obj/structure/alien/weeds,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"x" = (/obj/structure/alien/weeds,/mob/living/carbon/alien/humanoid/hunter,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"z" = (/obj/structure/alien/weeds/node,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"A" = (/obj/structure/alien/weeds,/obj/structure/bed/nest,/obj/effect/decal/remains/xeno,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"E" = (/obj/structure/lattice,/turf/space,/area/space)
+"Q" = (/obj/structure/alien/resin/membrane,/turf/simulated/mineral,/area/ruin/unpowered)
+"S" = (/obj/structure/alien/weeds,/obj/structure/bed/nest,/obj/effect/decal/remains/human,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+"T" = (/obj/structure/alien/weeds,/obj/structure/table,/turf/simulated/floor/plating/airless,/area/ruin/unpowered)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+aaaaaEhhhhhdhhhaaaaa
+aaaEEgvhizhvnShEaaaa
+aaEmmvvhvvhvvvhhEaaa
+aEmvvzvhvvhvzvvhhQaa
+amvvnvvhvvhvvvvvTQaa
+ahvvvvvvvvvvvvvvotaa
+aaghhghhvvhhhghhhtaa
+aaahTvSxvvxvvnvhaaaa
+aEhhTzvSvvvvzvnhaaaa
+aEdvvvvvvvvnvvmEEaaa
+aEthhhhhvvhhhmEEaaaa
+aaEEEhzvvvvnhEEaaaaa
+aaaaahvvvvvihEaaaaaa
+aaaaahgQvAvdlEaaaaaa
+aaaaaaEEQddEaaaaaaaa
+aaaaaaaEEEEaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+"}

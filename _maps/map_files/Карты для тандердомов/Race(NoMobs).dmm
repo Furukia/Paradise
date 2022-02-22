@@ -1,0 +1,206 @@
+"aH" = (/obj/structure/spawner/lavaland/goliath,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"aI" = (/obj/machinery/chem_dispenser/beer/upgraded,/obj/structure/table/wood/poker,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"aR" = (/obj/structure/flora/tree/pine,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"aX" = (/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"bj" = (/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 111; teleport_y = 209; teleport_z = 2},/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"bo" = (/obj/effect/mine/stun{name = "light stun mine"; stun_time = 2},/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"br" = (/obj/structure/barricade/wooden/crude/snow,/turf/unsimulated/floor/snow{icon_state = "snow2"},/area/adminconstruction)
+"bM" = (/obj/machinery/disco/immobile{active = 1; stop = 99999999},/turf/unsimulated/floor{dir = 1; icon_state = "darkgreenfull"},/area/adminconstruction)
+"bS" = (/obj/structure/flora/tree/dead,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"cv" = (/obj/effect/mine/sound/bwoink,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"cE" = (/turf/unsimulated/floor/snow,/area/adminconstruction)
+"cK" = (/obj/structure/closet/crate/freezer,/obj/item/clothing/suit/space/santa,/obj/item/clothing/head/helmet/space/santahat,/obj/item/gun/energy/pulse/destroyer,/obj/item/paper{info = "Доберитесь до конца арены быстрее команды своих противников!"},/obj/item/clothing/shoes/jackboots,/obj/item/shield/energy,/obj/item/clothing/under/tourist_suit,/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"cR" = (/obj/effect/mine/pickup/bloodbath,/turf/unsimulated/floor{dir = 4; icon_state = "darkredfull"},/area/adminconstruction)
+"dd" = (/turf/unsimulated/wall{icon = 'icons/turf/walls/silver_wall.dmi'; icon_state = "silver"},/area/adminconstruction)
+"dq" = (/obj/machinery/mass_driver/bumper{dir = 4; icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"dA" = (/obj/structure/flora/tree/pine,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"ef" = (/obj/machinery/door/poddoor/preopen{id_tag = "stop_game"},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"et" = (/turf/unsimulated/floor{dir = 8; icon_state = "darkgreycamo"},/area/adminconstruction)
+"eJ" = (/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"eQ" = (/turf/unsimulated/floor{dir = 1; icon_state = "darkgreenfull"},/area/adminconstruction)
+"fc" = (/obj/structure/barricade/wooden/crude/snow,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"fP" = (/obj/effect/turf_decal/weather/snow/corner{dir = 8},/turf/unsimulated/floor{dir = 4; icon_state = "darkgreycamo"},/area/adminconstruction)
+"fZ" = (/obj/structure/barricade/wooden/crude/snow,/obj/effect/mine/pickup/healing,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"gh" = (/obj/structure/barricade/wooden/crude/snow,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"gs" = (/obj/effect/turf_decal/arrows/red{dir = 1},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"gt" = (/obj/machinery/vending/coffee,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"gS" = (/obj/structure/mirror/magic{pixel_y = -30},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"hm" = (/obj/effect/turf_decal/weather/snow/corner{dir = 8; icon_state = "snow_surround"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"ht" = (/obj/structure/table/wood/poker,/obj/item/paper{info = "150, 213, 2"; name = "Координаты для спавна"},/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"hK" = (/obj/effect/mine/stun{name = "light stun mine"; stun_time = 2},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"ik" = (/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 157; teleport_y = 186; teleport_z = 2},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"io" = (/obj/machinery/snow_machine{active = 1; anchored = 1; icon_state = "snow_machine_off"; infinite_snow = 1; name = "snow machine"},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"iq" = (/obj/effect/turf_decal/weather/snow/corner{dir = 1; icon_state = "snow_surround"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"iB" = (/obj/effect/mine/pickup/healing,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"jq" = (/obj/effect/turf_decal/weather/snow/corner{icon_state = "snow_surround"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"kg" = (/obj/structure/flora/tree/dead,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"ks" = (/obj/machinery/door_control{id = "start_game"; name = "Start game"},/turf/unsimulated/wall{icon = 'icons/turf/walls/silver_wall.dmi'; icon_state = "silver"},/area/adminconstruction)
+"kE" = (/turf/unsimulated/floor/snow{icon_state = "snow-ice"; name = "Icy Window"},/area/adminconstruction)
+"lg" = (/obj/machinery/mass_driver/bumper{icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"lo" = (/obj/effect/mine/pickup/healing,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"mo" = (/obj/structure/chair/comfy/brown,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"op" = (/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"or" = (/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"ov" = (/obj/machinery/porta_turret/syndicate/assault_pod,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"oH" = (/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"oI" = (/obj/structure/barricade/wooden/crude,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"oM" = (/obj/machinery/mass_driver/bumper{dir = 1; icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"pe" = (/obj/structure/table/wood/poker,/obj/item/toy/cards/deck/syndicate/black,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"pG" = (/obj/machinery/mass_driver/bumper{dir = 8; icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"qc" = (/obj/structure/barricade/wooden/crude/snow,/obj/structure/barricade/wooden/crude/snow,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"qi" = (/turf/unsimulated/floor/snow{icon_state = "snow2"},/area/adminconstruction)
+"qJ" = (/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"rm" = (/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"tc" = (/turf/unsimulated/floor{dir = 4; icon_state = "darkredfull"},/area/adminconstruction)
+"ud" = (/obj/effect/mine/pickup/speed,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"un" = (/obj/structure/flora/tree/dead,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"up" = (/obj/effect/turf_decal/arrows/red{dir = 1},/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"uB" = (/obj/effect/mine/explosive{icon_state = "soap"; name = "explosive soap"},/turf/unsimulated/floor{dir = 4; icon_state = "darkredfull"},/area/adminconstruction)
+"uU" = (/obj/structure/table/wood/poker,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"vc" = (/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow{icon_state = "snow2"},/area/adminconstruction)
+"vF" = (/obj/machinery/vending/snack,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"vU" = (/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 111; teleport_y = 211; teleport_z = 2},/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"wD" = (/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 175; teleport_y = 227; teleport_z = 2},/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"wH" = (/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"wY" = (/obj/vehicle/space/speedbike/red{dir = 4},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"xz" = (/obj/effect/mine/pickup/speed,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"xN" = (/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"yN" = (/mob/living/simple_animal/hostile/megafauna/dragon/space_dragon,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"zk" = (/obj/effect/mine/pickup/speed,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"zo" = (/obj/effect/turf_decal/weather/snow/corner{dir = 8},/obj/effect/turf_decal/weather/snow/corner{dir = 4},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"Al" = (/obj/effect/mine/sound/bwoink,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Ax" = (/obj/structure/barricade/wooden/crude,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"Az" = (/obj/effect/turf_decal/weather/snow/corner{dir = 1; icon_state = "snow_surround"},/obj/machinery/door/poddoor/preopen{id_tag = "stop_game"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"AA" = (/turf/unsimulated/floor{dir = 4; icon_state = "darkgreycamo"},/area/adminconstruction)
+"AK" = (/obj/structure/chair/comfy/brown{dir = 8},/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"Ba" = (/mob/living/simple_animal/hostile/tree,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"BG" = (/obj/structure/barricade/wooden/crude/snow,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"BW" = (/turf/simulated/floor/plating/lava/smooth/lava_land_surface,/area/adminconstruction)
+"Ce" = (/obj/effect/mine/explosive{icon_state = "soap"; name = "explosive soap"},/turf/unsimulated/floor{dir = 1; icon_state = "darkgreenfull"},/area/adminconstruction)
+"CB" = (/obj/item/clothing/head/snowman,/obj/item/clothing/suit/snowman,/obj/structure/closet/crate/freezer,/obj/item/gun/energy/pulse/destroyer,/obj/item/paper{info = "Доберитесь до конца арены быстрее команды своих противников!"},/obj/item/clothing/shoes/clown_shoes,/obj/item/shield/energy,/obj/item/clothing/under/tourist_suit,/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"CC" = (/obj/item/twohanded/required/kirbyplants,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"CO" = (/turf/unsimulated/wall/fakeglass{icon = 'icons/turf/snow.dmi'; icon_state = "snow-ice"; name = "Icy Window"; tag = "icon-fakewindows (EAST)"},/area/adminconstruction)
+"CV" = (/obj/effect/mine/pickup/healing,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Df" = (/obj/machinery/mass_driver/bumper{dir = 8; icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/obj/effect/mine/pickup/speed,/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"DZ" = (/obj/effect/turf_decal/weather/snow/corner{dir = 4; icon_state = "snow_surround"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"EN" = (/obj/machinery/vending/cigarette{prices = list()},/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"Fu" = (/obj/structure/flora/tree/pine,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"FC" = (/obj/effect/mine/explosive,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Gl" = (/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"GO" = (/obj/machinery/snow_machine{active = 1; anchored = 1; icon_state = "snow_machine_off"; infinite_snow = 1; name = "snow machine"},/turf/unsimulated/wall{icon = 'icons/turf/walls/silver_wall.dmi'; icon_state = "silver"},/area/adminconstruction)
+"GQ" = (/obj/effect/mine/sound/bwoink,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow{icon_state = "snow2"},/area/adminconstruction)
+"Hd" = (/obj/effect/turf_decal/weather/snow/corner{dir = 5},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"Iy" = (/obj/structure/mirror/magic{pixel_y = 30},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"IE" = (/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 112; teleport_y = 224; teleport_z = 2},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Jf" = (/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"KO" = (/obj/effect/mine/sound/bwoink,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"MH" = (/obj/machinery/mass_driver/bumper{dir = 1; icon = 'icons/effects/clockwork_effects.dmi'; icon_state = "servant_blocker"; name = "Speed Up"},/obj/effect/turf_decal/box/white{color = "blue"},/turf/unsimulated/floor/snow{icon_state = "ice"; name = "ice"},/area/adminconstruction)
+"Nd" = (/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 168; teleport_y = 247; teleport_z = 2},/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Nh" = (/obj/machinery/snow_machine{active = 1; anchored = 1; icon_state = "snowman"; infinite_snow = 1},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"NK" = (/obj/effect/mine/pickup/healing,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow{icon_state = "snow1"},/area/adminconstruction)
+"Pb" = (/turf/unsimulated/floor/snow{icon = 'icons/turf/walls/silver_wall.dmi'; icon_state = "silver"; name = "Wall"},/area/adminconstruction)
+"Pd" = (/obj/effect/turf_decal/weather/snow/corner{icon_state = "snow_surround"},/obj/effect/turf_decal/weather/snow/corner{dir = 1},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"Pj" = (/obj/machinery/door_control{id = "stop_game"; name = "End game"},/turf/unsimulated/wall{icon = 'icons/turf/walls/silver_wall.dmi'; icon_state = "silver"},/area/adminconstruction)
+"Po" = (/mob/living/simple_animal/hostile/tree,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Pq" = (/obj/effect/turf_decal/weather/snow/corner{dir = 4},/turf/unsimulated/floor{dir = 4; icon_state = "darkgreycamo"},/area/adminconstruction)
+"Qs" = (/obj/effect/turf_decal/weather/snow/corner{dir = 8; icon_state = "snow_surround"},/obj/machinery/door/poddoor/preopen{id_tag = "stop_game"},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"QA" = (/obj/machinery/door/poddoor{id_tag = "start_game"},/turf/unsimulated/floor{dir = 8; icon_state = "darkgreycamo"},/area/adminconstruction)
+"QO" = (/obj/structure/barricade/wooden/crude/snow,/obj/effect/mine/explosive,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"RL" = (/obj/effect/turf_decal{color = "red"; icon = 'icons/obj/objects.dmi'; icon_state = "anom"; layer = 2.5; name = "anomaly_decal"},/obj/effect/step_trigger/teleporter{icon = 'icons/mob/screen_gen.dmi'; icon_state = "x3"; teleport_x = 127; teleport_y = 201; teleport_z = 2},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"TF" = (/obj/structure/barricade/wooden/crude/snow,/obj/effect/mine/stun{name = "light stun mine"; stun_time = 2},/turf/unsimulated/floor/snow,/area/adminconstruction)
+"TR" = (/obj/structure/spawner/lavaland/goliath,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"Us" = (/obj/machinery/vending/boozeomat{req_access_txt = null},/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+"UW" = (/obj/effect/mine/stun,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"UY" = (/obj/structure/spawner/lavaland/goliath,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Wc" = (/turf/simulated/floor/chasm/straight_down/lava_land_surface,/area/adminconstruction)
+"We" = (/obj/effect/mine/pickup/healing,/obj/structure/flora/grass/both,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Wy" = (/obj/effect/mine/stun{name = "light stun mine"; stun_time = 2},/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"XB" = (/obj/effect/mine/pickup/healing,/obj/structure/barricade/wooden/crude/snow,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"XN" = (/obj/effect/turf_decal/weather/snow/corner{dir = 8},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"Yy" = (/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"YK" = (/obj/vehicle/space/speedbike{dir = 4},/turf/unsimulated/floor{icon_state = "darkgrey"},/area/adminconstruction)
+"Zb" = (/obj/structure/flora/tree/pine,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/obj/structure/flora/grass/both,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Zy" = (/obj/machinery/chem_dispenser/soda/upgraded,/obj/structure/table/wood/poker,/turf/unsimulated/floor{dir = 8; icon = 'icons/turf/floors/carpet_black.dmi'; icon_state = "carpet"},/area/adminconstruction)
+
+(1,1,1) = {"
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+ddIyIyIyYyYyPqQAiqcEPdddddddddddddcEghcEcEcEcEcEcEghcEcEghcEcEcEghcEcEcEcEcEcEdqdqdqdqdqdqcEwHwHwHiocEcEcEghcEcEcEcEcEghcEcEcEghcEcEcEcEcECOCOUsGlaIZyCCmomoCCdd
+ddYyYyYyYKYyPqQAXNDZcEcEddddddddcEcEghcEcEaRcEcEcEghghcEwHcEcEcEcEcEghcEcEcEcEdqdqdqdqdqdqcEcEcEcEcEcEcEcEcEcEaRcEcEcEghcEcEcEcEcEcEcEcEcEcECOCOGlGlGlGluUpeAKdd
+ddYyYyYyYKYyPqQAzocEhmHdghddddcEcEcEcEcEcEcEghcEcEghghcEcEghcEcEbrcEcEcEcEghcEcEaXwHwHcEcEcEcEaXcEunghcEcEqiwHcEcEcEcEcEcEcEcEghcEcEcEcEaRcEcECOCOGlGlGlhtuUAKdd
+ddYyYyYyYKYyPqQAXNDZcEjqcEcEcEcEkgcEeJghcEcEghcEaXghcEcEcEcEcEaXcEcEcEcEcEcEcEcEcEqighcEcEcEcEcEwHcEcEcEcEcEcEdqdqdqdqdqdqcEcEopwHcEqicEcEghcEcECOCOGlGlGlGlCCdd
+ddCBCBCBYyYyPqQAjqcEPdcEPdwHcEopcEcEcEghcEcEopcEcEghghcEuncEcEghcEcEcEaRcEcEghcEcEaXwHwHcEghcEghcEcEcEghcEaXcEdqdqdqdqdqdqcEcEcEcEcEcEcEcEghcEcEcECOCOGlGlGlvFdd
+ddddddddCOCOddddkscEcEcEeJcEcEcEddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddcEcEghcEcEcEcEcEghCOCOGlGlENdd
+ddcKcKcKYyYyPqQAiqcEopPdwHcEioddddcEwHwHcEWcWcWcWcWcWcWcWcWcghghcEcEIEWcWcWcghcEcEwHwHcEpGpGpGpGpGpGcEcEghghcEiocEwHaXwHwHghcEcEddddcEwHcEcEudcEcEghghCOCOGlGldd
+ddYyYyYywYYyPqQAzocEPdcEcEghddddaXwHwHghcEcEWcWcWcWcWcWcWcghghghcEWcWcWcWcWcghcEwHaXcEcEpGpGpGpGpGpGcEcEcEghcEcEcEcEghcEcEghcEuncEddddcEcEcEcEcEghghcEcECOCOgtdd
+ddYyYyYywYYyPqQAXNDZcEcEcEddddwHrmwHwHwHghcEghWcWcWcWccEcElocEghWcWcWcWcWccEcEqicEcEcEcEcEcEcEcEcEuncEcEcEghcEcEghcEcEcEcEghcEcEghcEddddcEcEcEcEcEghcEghghCOCOdd
+ddYyYyYywYYyPqQAzocEiqcEddddcEwHrmwHrmaXcEcEghcEWcWcghghcEcEcEWcWcWcWccEcEcEcEcEghcEcEaRcEcEcEcEwHaXcEudcEcEcEunghcEcElocEcEcEghghcEghddddcEPocEcEcEcEcEcEghCOdd
+ddgSgSgSYyYyPqQAjqcEjqddddcEcEcEaRqiwHwHWccEcEcEcEcEcEghghWcWcWcWcWcghcEcEcEWcWcWccEcEcEcEcEddddddddddddddddddddddddddcEcEcEcEghghghwHwHddddghghcEaXcEghghghwHdd
+ddddddddddddddddddddddddiocEghghcEcEcEWcWcWccEcEghcEcEWcWcWcWcWcghghcEcEcEWcWcWcghcEcENdddddddcEcEcEcEghcEcEwHcEwHwHddddcEcEcEghghghghcEcEddddghghcEcEcEghcEwHdd
+ddddddddddddddddddddddddcEcEcEghghcEWcWcWcWccEghcEcEWcWcWcWcWcghaXwHwHunWcWcWcghcEcEddddddcEcEcEghcEcEcEWcWcwHwHghwHwHddddaRcEcEghghghcEcEwHddddghcEqiwHcEcEundd
+ddddddddddddddddddddddghcEcEcEcEghWcWcWcWccEcEcEcEWcWcWcWcWcwHghJfghWcWcWcWccEcEcEddddWcWcWccEcEcEwHwHwHWcWcWcwHwHwHwHaXddaXcEcEghghghcEghcEwHddddcEcEcEcEghghdd
+ddddddddddddddddddddcEcEghcEcEWcWcWcWcWccEcEudcEWcWcWcWcghwHwHwHwHWcWcWcWccEcEcEddddcEcEWcWcWccEghcEdAwHwHWcWcWcwHghcEwHddwHcEcEghghcEcEghcEeJwHddddghghcEiocEdd
+ddddddddddddddddddcEcEcEcEcEWcWcWcWcWccEcEghcEcEcEcEWccEcEPowHwHWcWcWcWccEcEghddddcEwHcEwHWcWcWcWcwHaXqiwHcEWcWccEcEcEcEddddghcEghqccEcEghcEwHcEghcEcEcEcEghghdd
+ddddddddddddddddcEcEcEghcEWcWcWcWcWcghwHwHcEcEcEcEcEcEcEcEcEghWcWcWcWcghcEcEddddcEcEcEwHghwHWcWcWcWccEghudcEWcWcWccEcEghwHddcEcEghghcEcEwHcEghghghcElowHghghcEdd
+ddddddddddddddghcElocEghWcWcWcWcWcwHwHwHwHWcWcuncEghcEghioWcWcWcWcWccEcEcEddddcEcEWcWcwHwHaXwHWcWcWcWccEcEcEWcWcWccEghwHwHddddcEcEghcEPowHcEcEghcEcEcEcEghcEwHdd
+ddddddddddddcEcEcEwHcEcEWcWcWcWcghcEwHaXWcWcWcWccEcEcEWcWcWcWcWcWcuncEghddddcEcEqiWcWcWccEwHghWcWcWcWccEcEcEWcWcWccEwHwHJfcEddghghghcEghcEcEcEghghcEwHcEcEcEaXdd
+ddddddddddcEcEcEwHaXghWcWcWcWccEcEcEghWcWcWcWcWcWcWcWcWcWcWcWcghcEcEcEddddcEcEcEcEWcWcWcWccEcEcEWcWcWccEghcEghWcWcWccEwHghcEddddghghcEcEcEghcEghcEcEghcEcEcEcEdd
+ddddddddcEcEcEunwHwHWcWcWcWccEcEcEcEWcWcWcWcWcWcWcWcWcWcWcWccEcEcEghddddcEloaRcEcEcEWcWcWcWccEghcEcEcEghcEcEcEWcWcWcWcghcEcEghddddddddcEghghcEghcEghcEghcEPocEdd
+ddddddcEcEcEWcWcwHcEWcWcWcuncEcEcEwHWcWcWcWcWcWcWcWcWcWcghcEcEcEopddddcEcEcEcEeJcEcEunWcWcWccEcEcEghcEcEcEcEcEghWcWcWccEcEcEghghghghddddddghcEcEcEghcEcEcEcEcEdd
+ddddcEcEcEWcWcWccEwHWcWcWccEcEaRwHwHWcWcWcWcWcWcWcghcEcEghcEopghddddddddddddddddddddddddddddPbPbddddddddPbPbddddddddddddddddddddghghcEcEddddddcEcEcEvcwHuncEdddd
+ddghcEcEghWcWcWccEcEcEWcWcWcwHwHwHwHwHWcWcWcWccEcEcEcEcEcEcEddddddddcEwHwHqicEddcEwHwHcEwHddcEcEwHwHcEddwHvccEaXwHddcEwHwHwHaXddcEcEcEghdddddddddddddddddddddddd
+ddcEcEcEWcWcWcWcWccEcEcEWcWcWcaXwHghwHloghcEcEcEcEcEghcEddddddcEcEddcEcEwHcEcEddcEcEcEcEcEddcEwHcExzcEddcEcEwHcEudddcEcEwHwHwHddcEUWcEghcEcEhKcEghcEcEhKcEcEcEdd
+ddghghcEWcWcWcWcWcghcEcEWcWcWcWcghghcEcEghcEcEcEghioddddddghcEcEopddoMoMddghudddoMoMddudghddoMoMddghghddoMoMddcEghddoMoMddghudddghcEcEcEcEghcEcEghcEcEcEghcEghdd
+ddcEwHwHWcWcWcWcWcWccEcEcEWcWcWcWcWccEcEcEcEunddddddddwHghghcEcEcEddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcEghghcEhKcEghcEcEhKcEghcEcEeJdd
+ddwHwHwHWcWcWcWcWcWccEcEghghWcWcWcWcWcddddddddddcEaXwHwHghcEopghcEddoMoMddghghddoMoMddcEghddoMoMddghPoddoMoMddghghddoMoMddghghddddddddddddddddddddddddddddhKcEdd
+ddaXwHwHghWcWcWcWcghcEghcEcEcEddddddddddiocEcEghcEcEwHwHghcEcEghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddkgghddcEghcEhKcEcEghcEcEcEghioddcEcEdd
+ddwHwHghcEcEWcWccEcEcEcEcEcEddddcEcEcEcEcEcEcEghcEghwHwHcEcEcEeJcEddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddghcEcEghghghddddddcEcEghddghhKdd
+ddghwHcEcEcEcEcEcEeJcEcEcEddddghcEghcEcEghopcEcEcEghcEghghcEcEcEcEddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcEhKcEcEghddddghcEcEeJcEddcEcEdd
+ddcEcEcEcEcEudcEudcEcEcEddddcEwHwHghcEcEghddddddddddddddddddddlglgddoMoMddghunddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcEcEhKcEddddghghghcEcEcEddudghdd
+ddghghghghcEcEuncEwHghddddghJfwHghddddddddddAlKOKOAlAlKOKOxzddlglgddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddghcEcEddddghcEcEcEhKcEghddcEcEdd
+ddddghghghcEcEcEwHwHddddcEwHwHwHddddKOKOKOKOAlddKOddAlddKOKOddlglgddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcEcEghddcEcEFCuncEghghddddghghdd
+ddddddghghghcEghwHghddcEcEcEwHddddKOKOKOAlKOKOKOKOKOKOKOKOKOddlglgddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcETFghddghghcEcEghghddddcEcEhKdd
+ddddddddghghghghghghddcEghghddddKOKOAlddddddddddddddKOKOddAlddlglgddoMoMddghcEddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddcEcEcEddcEcEqicEghddddcEghcEopdd
+ddddddddddwHghghghloddghwHaXddKOGQKOddddAlKOKOKOKOddAlKOKOKOddlglgddoMoMddghcEddoMoMddghghddoMoMddunghddoMoMddghPoddoMoMddghaXddghQOudddhKcEcEghddddcEcEeJghghdd
+ddddddddddwHwHddcEopddcEwHwHddKOKOddddAlKOddKOGOKOddAlddKOKOddlglgddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddoMoMddghghddhKcEcEddcEcEddddddcEghFCcEcEghdd
+ddddddddddvUvUddbjbjddghghwHddKOKOddAlKOKOKOGQAlAlddAlKOKOKOddlglgddoMoMddcEghddMHoMddghcEddoMoMddghghddoMoMddghcEddoMoMddcEghddopqighddghcEghcEcEghcEcEghcEcEdd
+ddddddddddddddddddddddcEcEqiddAlAlAlKOiBKOddAlddAlddKOKOddKOCOcEcEcEgsgscEcEcEcEgsgscEcEcEcEgsupwHcEcEcEgsgscEcEcEcEgsgscEcEcEddghcEghddcEcEcEcEghcEcEghcEhKcEdd
+ddcEwHghcEghcEghcEcEcEcEcEghddAlKOKOcvKOddddAlKOKOddKOKOKOKOCOcEcEwHwHrmcEwHcEcEwHwHFucEcEcEcEcEcEwHwHwHwHcEcEwHwHwHcEwHdAcEcEddcEghcEddddcEghFCcEghcEcEhKcEghdd
+ddddwHwHghwHwHghcEghqicEghopddddKOKOKOddddddKOwDKOddKOddKOKOCOcEqJwHwHwHcEwHrmBarmrmrmrmqiwHwHrmwHrmrmcEZborrmbSwHwHxNwHJflocEddddhKcEghddddddopcEghghcEcEghghdd
+ddcEcEghwHghwHopcEghcEghcEghdddddddAddddddddKOKOAlddKOKOKOKOkEwHwHwHcEdAwHwHwHWecEiocEkgrmwHcEaRcEcEcEcEcEcEcEcEcEPowHwHcEcEcEddddddghcEcEloddddddddcEcEghghiodd
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddhKghcEdddddddddddddddddddd
+ddghghcEghwHwHqiaXwHcEDfcEwHwHcEghlocEunghcEcEcEcEcEcEDfcEwHwHNKwHwHwHghcElocEcEcEghcEcEcEDfcEcEghghcEddddddddghghghcECVwHWycEcEddddddcEcEcEcEghcEghcEcEghcEghdd
+ddghcEcEghghwHwHwHwHcEcEwHJfwHDfwHwHwHwHaXwHcEDfwHwHcEcEcEcEvcwHwHDfwHghghcEcEuncEcEghcEaXwHcEghcEghghddddddghXBghghghwHwHwHwHCVwHddddghcEghcEhKcEcEghcEcEghghdd
+ddlowHwHwHwHwHcEDfcEunwHfZwHcEcEwHwHcEDfwHvccEcECVwHcEcEghghlowHaXkgwHcEcEcEcEDfcEcElocEwHwHghcEghghghddddghghghbrghghghXBghBGwHaXcEddcEghhKcEeJghhKcEhKghopqcdd
+ddcEaXwHddddddddghghghddddddghghghddddddghghghddddddghghghddddddghghghddddddghghghddddddghghghddghcEghddddghghghwHwHWewHwHwHwHghCVcEddcEghcEghcEcEghghcEcEghcEdd
+ddcEeJcEghghghddcEovioddddddcEovcEddddddcEovcEddddddcEovcEddikddcEovcEddddddcEovcEddddddcEovcEddcEghghddddghghghCVghghghghghCVghvccEddddddddddddddddddcEghghcEdd
+ddcEghcEghghghddddddddddddddddddddddddddddddddddddddddddddddcEddddddddddddddddddddddddddddddddddghghcEghcEloghghwHghghghghghwHghwHlocEcEghudghghcEcEhKcEcEghghdd
+ddcEghghghghcEcEcEcEcEoIoIRLddddddcEwHaXcEcEghghghwHcEcEghghcEghoIcEoHoHoHoHoHoHcEcEcEcEwHcEopddghcEghcEghwHwHghWyghghyNghghwHghCVwHcEhKcEghcEcEcEghcEcEudcEghdd
+ddcEcEghghcEuncEoHoHoHoHAxddddddoHcECVwHkgghghghwHwHwHwHaXghghoIoHoHoHoHoHoHoHoHoHoHoHudwHwHcEddghcEcEghghwHCVghwHghghghghghCVghwHwHcEghudghcEFCghudghghcEghopdd
+ddwHwHcEcEcEcEoHoHoHoHoHddddddoHoHoHwHwHwHcEoIcEcEkgrmrmwHcEcEoHoHBWBWBWBWBWBWBWBWoHoHoHcEwHwHddddddddddddwHwHghCVghghghghghwHghwHwHdddddddddddddddddddddddddddd
+ddwHCVuncEcEoHoHBWBWBWoHBWBWBWBWoHoHoHoIoIcEcEloUYwHrmwHcEdqdqoHBWBWBWBWBWBWBWBWBWBWBWoHoHcEwHcEcEcEcEddddcEwHghJfwHwHwHwHghWyghCVwHddddghghghcEcEcEcEcEcEcEcEdd
+ddwHwHwHcEoHoHBWBWBWBWBWBWBWBWBWBWoHoHoHAxoIcEcEcEwHoIcEudoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEghcEuncEddddcECVwHwHbowHwHCVghwHghwHcEddddcEghcEcEghcEghghghcEcEdd
+ddaXwHwHfcAxoHBWBWBWBWBWBWBWBWBWBWBWBWoHoHoHcEcEoIoIcEcEoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHAxghghcEcEddddddwHghghghXBghghghCVwHwHddddddcElocEghghJfwHcEudghcEdd
+ddudwHBGAxoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHoHoIcEcEcEoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHAxAxghghcEcEddddddcElocEcEwHvcwHwHcEddddddcEcEudghghwHwHddcEcEghcEdd
+ddcEcEcEoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEcEoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHzkoHAxfcghghcEcEddddddddddddddddddddddddddcEcEghcEqcghwHwHddghghghcEdd
+ddcEghAxoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHcEcEoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHoHAxAxoHoHfcghudcEcEghghcEcEghghghghcEwHJfwHwHcEcEcEwHwHddddcEghghghdd
+ddcEcEoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHcEcEoHoHoHoHoHBWBWBWBWBWBWBWBWBWBWoHoHoHoHoHoHoHoHoHoHoHcElgcEcEghghcEwHwHghghcEwHkgwHwHghghcEghddddddcEghghghdd
+ddcEAxoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEcEcEcEoHoHoHoHoHoHBWBWBWBWBWBWoHoHoHoHBWBWBWBWBWBWBWoHoHlgcEcEcEcEwHCVkgcEudghcEwHghghghghghddddddcEcEghghcEdd
+ddfcoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHeJcEuncEdqdqoHoHoHoHoHoHoHBWBWBWoHoHoHBWBWBWBWBWBWBWBWBWBWoHoHoHcEghcEwHwHcEeJghghghwHwHwHghcEddddddghghwHwHwHghdd
+ddoHdqdqoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHAxoIoHoHcEcEcEcEoHoHoHoHoHoHoHoHoHoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHoHcEghghcEghcEcEcEcEwHghddddddddcEghghcECVwHwHdd
+ddoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHcEghghoHoHcEoHoHoHBWBWBWBWoHoHoHTRoHoHBWBWBWBWBWBWoHoHoHBWBWBWBWBWBWBWoHoHcEcEghghcEghghghddddddddddcEcEcEghqccErmwHdd
+ddfcoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEcEcEcEoHoHoHBWBWBWBWBWBWBWoHoHoHoHoHBWBWBWBWBWoHcEcEoHoHBWBWBWBWBWBWBWoHoHcEcEcEcEghddddddddddcEopcEudcEcEghghcEcEdd
+ddghfcoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEcEcEcEoHoHBWBWBWBWBWBWBWBWBWzkoHoHBWBWBWBWBWBWoHoHeJiooHBWBWBWBWBWBWBWBWBWddddddddddddddddcEcEcEcEwHwHwHcEwHcEcEghdd
+ddcEoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWBWoHAxoHfccEcEoHoHBWBWBWBWBWBWBWBWBWoHoHoHoHBWBWBWBWBWBWoHoHcEoHoHBWBWBWBWBWBWBWBWBWBWddddddddddcEcEopcEcEwHkgcEUYwHeJghghghdd
+ddcEudoHAxBWBWBWBWBWBWBWBWBWBWBWBWBWAxoHoHghghoHoHBWBWBWBWBWBWBWBWBWoHoHoHoHoHoHBWBWBWBWBWBWoHoHoHBWBWBWBWBWoHoHoHoHoHoHoHcEcEcEcEcEcEcEcEghghcEwHcEcEghghqcghdd
+ddcEcEoHAxBWBWBWBWBWBWBWBWBWBWBWBWoHoHoHudcEoIAxBWBWBWBWBWBWBWBWBWBWoHoHoHoHoHoHBWBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEoHoHoHoHcEcEcEcEcElocEcEghghghghcEghghghghcEcEdd
+dddqdqoHoHBWBWBWBWBWBWBWBWBWBWBWBWoHoHcEcEoIAxBWBWBWBWBWBWBWBWBWBWoHoHoHcElooHoHoHBWBWBWBWBWBWBWBWBWBWoHoHoHoHoHoHoHoHoHoHoHoHoHcEcEcEcEcEghghghghghghghuncEcEdd
+ddcEcEcEoHBWBWBWBWBWBWBWBWBWBWBWBWoHcEuncEoHoHBWBWBWBWBWBWBWBWoHoHoHoHcEcEcEcEoHoHBWBWBWBWBWBWBWBWBWoHoHcEoHoHBWBWBWBWBWBWBWddddddcEcEudcEcEghghghghqccEcEcEcEdd
+ddghBGcEoHBWBWBWBWBWBWBWBWBWBWBWBWoHlocEoHoHBWBWBWBWBWBWBWoHoHoHcEoHcEcEcEcEcEcEoHoHBWBWBWBWBWBWBWoHoHoHoHoHBWBWBWBWBWBWBWBWBWddddddcEcEcEcEghghghcEcEcEcEcENhdd
+ddcEghoIoHoHBWBWBWBWBWBWBWBWBWBWBWoHcEeJoHoHBWBWBWBWBWoHoHoHcEoHcEcEcEcEoHcEcEcEcEoHoHoHBWBWBWBWBWoHcEunoHBWBWBWBWBWBWBWBWBWoHoHdddddddddddddddddddddddddddddddd
+ddwHwHcEcEzkBWBWBWBWBWBWBWBWBWBWoHoHcEcEoHoHBWBWBWBWoHoHcEoHoHudcEcEcEcEaHcEcEcEcEcEoHoHddddddoHoHoHzkcEoHBWBWBWBWBWBWoHoHoHoHcENhghghghwHcEefQsAAeteQtceQtceQdd
+ddaXwHdqdqoHoHBWBWBWBWBWBWBWBWoHAxoHcEcEcEddddddddoHoHcEoHcEcEeJcEcEuncEcEcEcEcEcEoHiooHddddddcEoHoHoHoHoHoHoHoHoHoHoHoHoHcEcExzcEBGghcEwHaXefeffPettceQtceQuBdd
+ddwHwHwHcEoIoHBWBWBWBWBWBWBWoHoHoHghcEcEddddddddddddcEoHcEcEcEopcEcEcEcEcEcEcEcEcEudcEoHddddddwHcEoHcEeJghoHoHcEoHoHoHcEwHwHcEwHwHghcEcEcEwHefeffPeteQcRbMtcCePj
+ddcEkgwHghoIcEoHoHzkoHoHoHoHoHoHghcEopddddddddddddddddcEcEcEcEcEcEcEcEcEcEcEopcEcEcEcEcEddddddwHwHcEcEghcEghcEoHcEcEudJfwHwHghwHwHwHcEcEghwHefQsAAettceQtceQuBdd
+ddiocEghghcEcEoHoHoHoHoHoHoHoHcEcEcEddddddddddddddddddddcEcEcEcEcEcEcEopcEcEcEcEcEcEcEcEddddddwHwHwHghcEghghghcEcEcEwHwHwHghghghwHwHwHghghcEAzeffPeteQtceQtceQdd
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+"}
