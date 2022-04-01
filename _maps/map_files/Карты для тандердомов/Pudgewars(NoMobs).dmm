@@ -1,49 +1,49 @@
-"a" = (/obj/machinery/door/poddoor{id_tag = "1st_team_bears"; name = "1st Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"a" = (/mob/living/simple_animal/hostile/bear,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
 "b" = (/turf/unsimulated/wall,/area/adminconstruction)
 "k" = (/obj/structure/closet/wardrobe/black,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
 "v" = (/turf/simulated/floor/plating/lava/smooth/lava_land_surface,/area/adminconstruction)
-"w" = (/mob/living/simple_animal/hostile/bear,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"x" = (/obj/item/gun/magic/hook{dir = 8},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"y" = (/obj/item/gun/magic/hook{dir = 1},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"w" = (/obj/machinery/door/poddoor{id_tag = "1st_team_bears"; name = "1st Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"x" = (/obj/machinery/door_control{id = "1st_team_bears"; name = "1st Team bears"; pixel_x = 8},/obj/machinery/door_control{id = "1st_team_blastdoor"; name = "1st Team Blastdoor"; pixel_x = -8},/turf/unsimulated/wall,/area/adminconstruction)
+"y" = (/obj/structure/chair/sofa/left{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
 "z" = (/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"A" = (/obj/structure/chair/sofa/left{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"A" = (/turf/unsimulated/wall/fakeglass{dir = 1; tag = "icon-fakewindows (WEST)"},/area/adminconstruction)
 "B" = (/obj/structure/chair/sofa/right{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
 "C" = (/obj/machinery/door/poddoor{id_tag = "2nd_team_blastdoor"; name = "2nd Team Blastdoor"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"D" = (/obj/item/storage/firstaid/adv,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"D" = (/obj/structure/chair/sofa{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
 "H" = (/obj/structure/chair/sofa{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
-"I" = (/obj/machinery/door_control{id = "1st_team_bears"; name = "1st Team bears"; pixel_x = 8},/obj/machinery/door_control{id = "1st_team_blastdoor"; name = "1st Team Blastdoor"; pixel_x = -8},/turf/unsimulated/wall,/area/adminconstruction)
-"K" = (/obj/machinery/door/poddoor{id_tag = "2nd_team_bears"; name = "2nd Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"L" = (/obj/item/gun/projectile/revolver,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"I" = (/obj/item/gun/magic/staff/slipping,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"K" = (/obj/item/storage/firstaid/adv,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"L" = (/obj/structure/chair/sofa/right{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
 "M" = (/obj/machinery/door/poddoor{id_tag = "1st_team_blastdoor"; name = "1st Team Blastdoor"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"N" = (/obj/item/gun/magic/hook{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"O" = (/obj/item/gun/magic/staff/slipping,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"R" = (/turf/unsimulated/wall/fakeglass{dir = 1; tag = "icon-fakewindows (WEST)"},/area/adminconstruction)
+"N" = (/turf/unsimulated/wall/fakeglass,/area/adminconstruction)
+"O" = (/turf/unsimulated/wall/fakeglass{dir = 1; icon_state = "fakewindows2"},/area/adminconstruction)
+"R" = (/obj/structure/chair/sofa/left{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
 "T" = (/obj/item/gun/magic/hook,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
 "U" = (/obj/machinery/door_control{id = "2nd_team_blastdoor"; name = "2nd Team Blastdoor"; pixel_x = -8},/obj/machinery/door_control{id = "2nd_team_bears"; name = "2nd Team bears"; pixel_x = 8},/turf/unsimulated/wall,/area/adminconstruction)
-"V" = (/turf/unsimulated/wall/fakeglass,/area/adminconstruction)
+"V" = (/obj/machinery/door/poddoor{id_tag = "2nd_team_bears"; name = "2nd Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
 "Y" = (/obj/structure/closet/wardrobe/green,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
-"Z" = (/turf/unsimulated/wall/fakeglass{dir = 1; icon_state = "fakewindows2"},/area/adminconstruction)
+"Z" = (/obj/item/gun/projectile/revolver,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
 
 (1,1,1) = {"
-bbbbbbbbbbbbbbbbbbb
-bzzzzzzzzzzzzzzzbwb
-bzzzkzkzkzkzkzzzbwb
-bzzzzzzzzzzzzzzzawb
-bzzzxzyzxzyzNzzzawb
-bzzzzzzzzzzzzzzzbwb
-bzzzzzzzzzzzzzzzbwb
-bMMMMMMMMMMMMMMMbIb
-bvvvvvvvvvvvvvvvRBb
-bvvvvvvvvvvvvvvvZHb
-bvOvvvvvDvvvvvLvZHb
-bvvvvvvvvvvvvvvvZHb
-bvvvvvvvvvvvvvvvVAb
-bCCCCCCCCCCCCCCCbUb
-bzzzzzzzzzzzzzzzbwb
-bzzzzzzzzzzzzzzzbwb
-bzzzTzTzTzTzTzzzKwb
-bzzzzzzzzzzzzzzzKwb
-bzzzYzYzYzYzYzzzbwb
-bzzzzzzzzzzzzzzzbwb
-bbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbb
+babzzzzzzzzzzzzzzzbab
+babzzzkzkzkzkzkzzzbab
+bawzzzzzzzzzzzzzzzwab
+bawzzzTzTzTzTzTzzzwab
+babzzzzzzzzzzzzzzzbab
+babzzzzzzzzzzzzzzzbab
+bxbMMMMMMMMMMMMMMMbxb
+byAvvvvvvvvvvvvvvvABb
+bDOvvvvvvvvvvvvvvvOHb
+bDOvIvvvvvKvvvvvZvOHb
+bDOvvvvvvvvvvvvvvvOHb
+bLNvvvvvvvvvvvvvvvNRb
+bUbCCCCCCCCCCCCCCCbUb
+babzzzzzzzzzzzzzzzbab
+babzzzzzzzzzzzzzzzbab
+baVzzzTzTzTzTzTzzzVab
+baVzzzzzzzzzzzzzzzVab
+babzzzYzYzYzYzYzzzbab
+babzzzzzzzzzzzzzzzbab
+bbbbbbbbbbbbbbbbbbbbb
 "}

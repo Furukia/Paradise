@@ -1,0 +1,49 @@
+"a" = (/mob/living/simple_animal/hostile/bear,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"b" = (/turf/unsimulated/wall,/area/adminconstruction)
+"g" = (/obj/structure/chair/sofa/left{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"i" = (/obj/machinery/door_control{id = "2nd_team_blastdoor"; name = "2nd Team Blastdoor"; pixel_x = -8},/obj/machinery/door_control{id = "2nd_team_bears"; name = "2nd Team bears"; pixel_x = 8},/turf/unsimulated/wall,/area/adminconstruction)
+"k" = (/obj/structure/closet/wardrobe/black,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"o" = (/obj/machinery/door/poddoor{id_tag = "2nd_team_bears"; name = "2nd Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"v" = (/turf/simulated/floor/plating/lava/smooth/lava_land_surface,/area/adminconstruction)
+"w" = (/obj/machinery/door/poddoor{id_tag = "1st_team_bears"; name = "1st Team bears"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"z" = (/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"A" = (/obj/machinery/door_control{id = "1st_team_bears"; name = "1st Team bears"; pixel_x = 8},/obj/machinery/door_control{id = "1st_team_blastdoor"; name = "1st Team Blastdoor"; pixel_x = -8},/turf/unsimulated/wall,/area/adminconstruction)
+"B" = (/obj/structure/chair/sofa/left{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"C" = (/obj/machinery/door/poddoor{id_tag = "2nd_team_blastdoor"; name = "2nd Team Blastdoor"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"D" = (/turf/unsimulated/wall/fakeglass{dir = 1; tag = "icon-fakewindows (WEST)"},/area/adminconstruction)
+"H" = (/obj/structure/chair/sofa/right{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"I" = (/obj/structure/chair/sofa{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"K" = (/obj/structure/chair/sofa{dir = 8},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"L" = (/obj/item/gun/magic/staff/slipping,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"M" = (/obj/machinery/door/poddoor{id_tag = "1st_team_blastdoor"; name = "1st Team Blastdoor"},/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"O" = (/turf/unsimulated/wall/fakeglass{dir = 1; icon_state = "fakewindows2"},/area/adminconstruction)
+"R" = (/obj/item/storage/firstaid/adv,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"T" = (/obj/item/gun/energy/sniperrifle,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"U" = (/obj/structure/chair/sofa/right{dir = 4},/turf/unsimulated/floor{icon_state = "dark"},/area/adminconstruction)
+"V" = (/turf/unsimulated/wall/fakeglass,/area/adminconstruction)
+"Y" = (/obj/structure/closet/wardrobe/green,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+"Z" = (/obj/item/gun/projectile/revolver,/turf/unsimulated/floor{icon = 'icons/turf/floors/plating.dmi'; icon_state = "basalt"},/area/adminconstruction)
+
+(1,1,1) = {"
+bbbbbbbbbbbbbbbbbbbbb
+babzzzzzzzzzzzzzzzbab
+babzzzkzkzkzkzkzzzbab
+bawzzzzzzzzzzzzzzzwab
+bawzzzTzTzTzTzTzzzwab
+babzzzzzzzzzzzzzzzbab
+babzzzzzzzzzzzzzzzbab
+bAbMMMMMMMMMMMMMMMbAb
+bBDvvvvvvvvvvvvvvvDHb
+bIOvvvvvvvvvvvvvvvOKb
+bIOvLvvvvvRvvvvvZvOKb
+bIOvvvvvvvvvvvvvvvOKb
+bUVvvvvvvvvvvvvvvvVgb
+bibCCCCCCCCCCCCCCCbib
+babzzzzzzzzzzzzzzzbab
+babzzzzzzzzzzzzzzzbab
+baozzzTzTzTzTzTzzzoab
+baozzzzzzzzzzzzzzzoab
+babzzzYzYzYzYzYzzzbab
+babzzzzzzzzzzzzzzzbab
+bbbbbbbbbbbbbbbbbbbbb
+"}
