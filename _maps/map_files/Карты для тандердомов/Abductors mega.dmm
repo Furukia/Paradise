@@ -1,0 +1,44 @@
+"a" = (/turf/space,/area/space)
+"b" = (/turf/unsimulated/wall/abductor{icon_state = "alien21"},/area/abductor_ship)
+"c" = (/turf/unsimulated/wall/abductor{icon_state = "alien2"},/area/abductor_ship)
+"d" = (/turf/unsimulated/wall/abductor{icon_state = "alien12"},/area/abductor_ship)
+"e" = (/turf/unsimulated/wall/abductor{icon_state = "alien22"},/area/abductor_ship)
+"g" = (/turf/unsimulated/wall/abductor{icon_state = "alien5"},/area/abductor_ship)
+"i" = (/turf/unsimulated/wall/abductor{icon_state = "alien9"},/area/abductor_ship)
+"l" = (/turf/unsimulated/wall/abductor{icon_state = "alien7"},/area/abductor_ship)
+"p" = (/turf/unsimulated/wall/abductor{icon_state = "alien19"},/area/abductor_ship)
+"q" = (/turf/unsimulated/wall/abductor{icon_state = "alien23"},/area/abductor_ship)
+"s" = (/turf/unsimulated/wall/abductor{icon_state = "alien18"},/area/abductor_ship)
+"u" = (/turf/unsimulated/wall/abductor{icon_state = "alien20"},/area/abductor_ship)
+"v" = (/turf/unsimulated/wall/abductor{icon_state = "alien10"},/area/abductor_ship)
+"w" = (/turf/unsimulated/wall/abductor{icon_state = "alien24"},/area/abductor_ship)
+"x" = (/turf/unsimulated/wall/abductor{icon_state = "alien13"},/area/abductor_ship)
+"y" = (/turf/unsimulated/wall/abductor,/area/abductor_ship)
+"z" = (/turf/unsimulated/wall/abductor{icon_state = "alien6"},/area/abductor_ship)
+"D" = (/turf/unsimulated/wall/abductor{icon_state = "alien3"},/area/abductor_ship)
+"E" = (/turf/unsimulated/wall/abductor{icon_state = "alien17"},/area/abductor_ship)
+"F" = (/turf/unsimulated/wall/abductor{icon_state = "alien16"},/area/abductor_ship)
+"M" = (/turf/unsimulated/wall/abductor{icon_state = "alien4"},/area/abductor_ship)
+"O" = (/turf/unsimulated/floor/abductor,/area/abductor_ship)
+"P" = (/turf/unsimulated/wall/abductor{icon_state = "alien8"},/area/abductor_ship)
+"Q" = (/turf/unsimulated/wall/abductor{icon_state = "alien11"},/area/abductor_ship)
+"S" = (/turf/unsimulated/wall/abductor{icon_state = "alien14"},/area/abductor_ship)
+"V" = (/turf/unsimulated/wall/abductor{icon_state = "alien15"},/area/abductor_ship)
+
+(1,1,1) = {"
+aubeeeeeeeeeqwa
+FEOOOOOOOOOOOsp
+SOOOOOOOOOOOOOV
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+dOOOOOOOOOOOOOx
+vOOOOOOOOOOOOOQ
+zlOOOOOOOOOOOPi
+aycDDDDDDDDDMga
+"}
