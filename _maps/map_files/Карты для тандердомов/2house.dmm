@@ -1,0 +1,34 @@
+"a" = (/turf/simulated/wall/mineral/wood,/area/space)
+"b" = (/obj/item/storage/backpack/satchel/withwallet{map_json_data = "#?lbr;#?qt;content#?qt;:\[#?lbr;#?qt;type#?qt;:#?qt;/obj/item/storage/wallet/random#?qt;,#?qt;content#?qt;:\[#?lbr;#?qt;type#?qt;:#?qt;/obj/item/stack/spacecash/c1000#?qt;,#?qt;icon_state#?qt;:#?qt;cashpurp#?qt;,#?qt;name#?qt;:#?qt;1000 Credits#?qt;#?rbr;,#?lbr;#?qt;type#?qt;:#?qt;/obj/item/coin/iron#?qt;,#?qt;name#?qt;:#?qt;iron coin#?qt;,#?qt;pixel_x#?qt;:2,#?qt;pixel_y#?qt;:-7#?rbr;],#?qt;slots#?qt;:10,#?qt;max_w_class#?qt;:2,#?qt;max_c_w_class#?qt;:14#?rbr;],#?qt;slots#?qt;:21,#?qt;max_w_class#?qt;:3,#?qt;max_c_w_class#?qt;:21#?rbr;"},/obj/item/radio/headset,/obj/item/stack/sheet/metal,/turf/unsimulated/floor/wood,/area/space)
+"c" = (/turf/unsimulated/floor/wood,/area/space)
+"d" = (/obj/structure/chair/comfy/brown{dir = 4},/turf/unsimulated/floor/wood,/area/space)
+"e" = (/obj/structure/table/wood{icon_state = ""},/obj/item/reagent_containers/food/snacks/grown/potato/wedges{dir = 8; pixel_x = 2; pixel_y = -4},/obj/item/flashlight/lamp/green{dir = 8; icon_state = "lampgreen-on"},/turf/unsimulated/floor/wood,/area/space)
+"f" = (/obj/structure/chair/comfy/brown{dir = 8},/turf/unsimulated/floor/wood,/area/space)
+"g" = (/obj/structure/dresser{dir = 8},/turf/unsimulated/floor/wood,/area/space)
+"h" = (/obj/structure/bed{dir = 8},/obj/item/bedsheet/fluff/hugosheet{dir = 8},/turf/unsimulated/floor/wood,/area/space)
+"i" = (/obj/machinery/r_n_d/circuit_imprinter,/turf/unsimulated/floor/wood,/area/space)
+"j" = (/obj/item/circuitboard/destructive_analyzer,/obj/item/stock_parts/scanning_module{pixel_x = -3; pixel_y = -4},/obj/item/stock_parts/manipulator{pixel_x = 5; pixel_y = 2},/obj/item/stock_parts/micro_laser{pixel_x = 2},/obj/item/stack/sheet/metal,/obj/item/stack/cable_coil{pixel_x = -2},/turf/unsimulated/floor/wood,/area/space)
+"k" = (/obj/machinery/computer/rdconsole/core,/turf/unsimulated/floor/wood,/area/space)
+"l" = (/obj/machinery/constructable_frame/machine_frame{icon_state = "box_1"},/obj/item/circuitboard/protolathe,/obj/item/stock_parts/matter_bin{pixel_x = 1; pixel_y = 5},/obj/item/stock_parts/matter_bin{pixel_x = -4; pixel_y = -3},/obj/item/stock_parts/manipulator{pixel_x = -2; pixel_y = 3},/obj/item/stock_parts/manipulator{pixel_x = -5; pixel_y = -4},/obj/item/reagent_containers/glass/beaker/large,/obj/item/reagent_containers/glass/beaker/large,/turf/unsimulated/floor/wood,/area/space)
+"m" = (/obj/item/melee/energy/sword/pirate,/turf/unsimulated/floor/wood,/area/space)
+"n" = (/obj/item/gun/energy/laser,/turf/unsimulated/floor/wood,/area/space)
+"o" = (/obj/machinery/constructable_frame/machine_frame{icon_state = "box_1"},/obj/item/stock_parts/matter_bin{pixel_x = -3; pixel_y = 2},/obj/item/stock_parts/micro_laser{pixel_x = -1; pixel_y = -2},/obj/item/stack/cable_coil{icon_state = "coil2"; name = "cable piece"; pixel_x = 1; pixel_y = 2},/obj/item/stock_parts/capacitor{pixel_x = 1; pixel_y = 4},/obj/item/circuitboard/pacman,/turf/unsimulated/floor/wood,/area/space)
+"p" = (/obj/machinery/power/port_gen/pacman,/turf/unsimulated/floor/wood,/area/space)
+"q" = (/obj/machinery/power/port_gen/pacman{dir = 8},/turf/unsimulated/floor/wood,/area/space)
+"r" = (/obj/item/stack/cable_coil/pink{pixel_y = 2},/obj/item/stack/cable_coil/pink{pixel_x = -2; pixel_y = 2},/obj/item/stack/cable_coil/pink{pixel_x = 2; pixel_y = 2},/obj/item/stack/cable_coil/pink{pixel_x = 1; pixel_y = -1},/turf/unsimulated/floor/wood,/area/space)
+"s" = (/turf/simulated/floor/plating,/area/space)
+"t" = (/obj/item/stack/rods{icon_state = "rods-1"},/obj/item/stack/sheet/mineral/snow{dir = 1; pixel_x = -4; pixel_y = -3},/obj/item/gun/energy/laser,/obj/item/reagent_containers/hypospray/autoinjector{dir = 1; icon_state = "autoinjector0"},/turf/space,/area/space)
+"u" = (/obj/item/stack/sheet/metal{dir = 4},/obj/item/stack/sheet/wood{dir = 4},/turf/space{icon_state = "7"},/area/space)
+"v" = (/obj/structure/door_assembly/door_assembly_wood{name = "wired window wooden airlock assembly"},/obj/item/stack/sheet/metal,/obj/item/shard{icon_state = "small"; pixel_y = -1},/turf/unsimulated/floor/wood,/area/space)
+"w" = (/obj/item/stack/sheet/metal,/obj/structure/lattice{icon_state = ""},/obj/item/circuitboard/autolathe{dir = 1},/obj/item/stock_parts/matter_bin{dir = 1; pixel_x = -2; pixel_y = -4},/obj/item/stock_parts/matter_bin{dir = 1; pixel_x = -3; pixel_y = -1},/obj/item/stock_parts/matter_bin{dir = 1; pixel_x = -5; pixel_y = 4},/obj/item/stock_parts/manipulator{dir = 1; pixel_x = 4},/obj/item/stack/sheet/glass{dir = 1},/turf/space{icon_state = "24"},/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaa
+abcdefccgha
+accccccccca
+accccccccca
+accccccccca
+aicjcccccca
+akclmnopqra
+aastuvwaaaa
+"}
