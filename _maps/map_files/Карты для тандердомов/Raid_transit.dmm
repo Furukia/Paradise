@@ -1,0 +1,5 @@
+"a" = (/obj/docking_port/stationary/transit{dheight = 2; dir = 4; dwidth = 8; height = 23; id = "torpeda_transit"; width = 17},/turf/template_noop,/area/space)
+
+(1,1,1) = {"
+a
+"}

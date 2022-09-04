@@ -1,0 +1,138 @@
+"af" = (/turf/unsimulated/wall/abductor{icon_state = "alien15"},/area/adminconstruction)
+"ai" = (/obj/effect/overlay/palmtree_r,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"aR" = (/turf/unsimulated/wall/abductor{icon_state = "alien8"},/area/adminconstruction)
+"aT" = (/obj/structure/table/abductor,/obj/item/bonegel/alien,/obj/item/bonesetter/alien,/obj/item/FixOVein/alien,/obj/item/surgicaldrill/alien,/obj/item/circular_saw/alien,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"bt" = (/obj/structure/mirror/magic/pride,/turf/unsimulated/wall,/area/adminconstruction)
+"bI" = (/turf/unsimulated/wall/abductor{icon_state = "alien3"},/area/adminconstruction)
+"cm" = (/turf/unsimulated/wall/abductor{icon_state = "alien17"},/area/adminconstruction)
+"cD" = (/obj/machinery/door/airlock/abductor{req_access_txt = "160"},/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"da" = (/obj/effect/decal/remains/human,/obj/item/clothing/shoes/cult,/obj/item/clothing/suit/hooded/cultrobes,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"fv" = (/obj/structure/table/abductor,/obj/item/paper/abductor,/obj/item/scalpel/alien,/obj/item/cautery/alien,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"fz" = (/obj/effect/decal/remains/human,/obj/item/melee/cultblade,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"fF" = (/turf/unsimulated/wall/abductor{icon_state = "alien22"},/area/adminconstruction)
+"gd" = (/mob/living/simple_animal/hostile/tree,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"hg" = (/obj/machinery/door/airlock/abductor{req_access_txt = "160"},/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"hM" = (/obj/structure/table/abductor,/obj/item/storage/box/alienhandcuffs,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"ja" = (/turf/unsimulated/wall/abductor{icon_state = "alien20"},/area/adminconstruction)
+"jm" = (/turf/unsimulated/wall/abductor{icon_state = "alien13"},/area/adminconstruction)
+"jN" = (/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"la" = (/obj/machinery/optable/abductor,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"lm" = (/obj/machinery/abductor/gland_dispenser,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"lu" = (/obj/structure/alien/egg/grown,/obj/structure/alien/egg/grown,/obj/structure/alien/weeds{layer = 2.1},/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"mq" = (/turf/unsimulated/wall/abductor{icon_state = "alien19"},/area/adminconstruction)
+"mV" = (/obj/machinery/computer/camera_advanced/abductor{team = 1},/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"mY" = (/obj/structure/table/abductor,/obj/item/paper/abductor,/obj/item/scalpel/alien,/obj/item/cautery/alien,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/obj/item/radio/headset/abductor,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"oo" = (/turf/unsimulated/wall/abductor,/area/adminconstruction)
+"ot" = (/turf/unsimulated/wall/abductor{icon_state = "alien23"},/area/adminconstruction)
+"oC" = (/obj/structure/bed/abductor,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"qf" = (/turf/unsimulated/wall/abductor{icon_state = "alien10"},/area/adminconstruction)
+"qh" = (/obj/machinery/optable/abductor,/obj/item/spellbook/oneuse/mindswap,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"qN" = (/turf/unsimulated/floor/snow,/area/adminconstruction)
+"rd" = (/obj/effect/decal/remains/human,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"tb" = (/turf/unsimulated/wall/abductor{icon_state = "alien24"},/area/adminconstruction)
+"ti" = (/mob/living/simple_animal/hostile/bear,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"tz" = (/obj/structure/alien/weeds{layer = 2.1},/obj/item/spellbook/oneuse/emp,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"uk" = (/obj/machinery/optable/abductor,/obj/item/spellbook/oneuse/smoke,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"uZ" = (/obj/structure/closet/abductor,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"vm" = (/obj/item/shield/mirror,/turf/unsimulated/wall,/area/adminconstruction)
+"vD" = (/obj/item/stack/sheet/runed_metal/fifty,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"vK" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds{layer = 2.1},/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"wf" = (/turf/space,/area/space)
+"wL" = (/turf/unsimulated/wall/abductor{icon_state = "alien11"},/area/adminconstruction)
+"xc" = (/obj/machinery/abductor/console{team = 1},/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"xD" = (/obj/effect/decal/remains/human,/obj/item/clothing/shoes/cult,/obj/item/clothing/suit/hooded/cultrobes,/obj/effect/decal/cleanable/blood/old,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"yK" = (/turf/unsimulated/wall/abductor{icon_state = "alien21"},/area/adminconstruction)
+"zW" = (/obj/effect/rune/narsie{color = "#ff0000"; used = 1},/obj/item/cult_shift,/obj/effect/decal/remains/human,/obj/item/melee/cultblade/dagger,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"Bw" = (/turf/unsimulated/wall/abductor{icon_state = "alien12"},/area/adminconstruction)
+"BG" = (/obj/item/gps/ruin{gpstag = "АНОМАЛЬНЫЙ СИГНАЛ"},/turf/unsimulated/wall,/area/adminconstruction)
+"CT" = (/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Dt" = (/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/blood/old,/turf/simulated/floor/engine/cult{nitrogen = 23; oxygen = 24; temperature = 300},/area/adminconstruction)
+"Eg" = (/obj/machinery/abductor/experiment{team = 1},/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"Eh" = (/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"GU" = (/obj/item/spellbook/oneuse/blind,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"HZ" = (/obj/item/shield/mirror,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"Ic" = (/turf/unsimulated/wall/abductor{icon_state = "alien7"},/area/adminconstruction)
+"IQ" = (/turf/unsimulated/wall/abductor{icon_state = "alien4"},/area/adminconstruction)
+"IS" = (/obj/machinery/anomalous_crystal/honk,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"JF" = (/obj/structure/flora/tree/pine/xmas,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"KL" = (/obj/structure/alien/weeds{layer = 2.1},/obj/structure/alien/weeds{layer = 2.1},/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"LD" = (/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Me" = (/obj/effect/mob_spawn/human/clown/corpse,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"Mm" = (/turf/unsimulated/wall/abductor{icon_state = "alien14"},/area/adminconstruction)
+"Mr" = (/turf/space,/area/adminconstruction)
+"MG" = (/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"MK" = (/obj/item/spellbook/oneuse/forcewall,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Pg" = (/obj/structure/flora/tree/pine,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"Pr" = (/turf/unsimulated/wall/abductor{icon_state = "alien9"},/area/adminconstruction)
+"PF" = (/mob/living/simple_animal/hostile/tree,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"PL" = (/turf/simulated/floor/plating/lava/smooth/lava_land_surface,/area/adminconstruction)
+"Qe" = (/turf/simulated/wall/cult,/area/adminconstruction)
+"Rm" = (/turf/unsimulated/wall/abductor{icon_state = "alien2"},/area/adminconstruction)
+"RG" = (/obj/machinery/anomalous_crystal/theme_warp,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"RL" = (/obj/item/abductor_baton,/obj/item/abductor_baton,/obj/item/abductor_baton,/obj/item/abductor_baton,/obj/item/abductor_baton,/obj/item/abductor_baton,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"Tm" = (/mob/living/simple_animal/hostile/tree,/obj/structure/flora/bush,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"UO" = (/turf/unsimulated/wall/abductor{icon_state = "alien5"},/area/adminconstruction)
+"We" = (/obj/item/grown/log/tree,/turf/unsimulated/floor/grass,/area/adminconstruction)
+"WK" = (/turf/unsimulated/wall/abductor{icon_state = "alien18"},/area/adminconstruction)
+"WT" = (/obj/structure/alien/weeds{layer = 2.1},/obj/structure/alien/weeds{layer = 2.1},/obj/structure/alien/egg/grown,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"XL" = (/obj/item/wrench/abductor,/obj/structure/flora/bush,/turf/unsimulated/floor/snow,/area/adminconstruction)
+"Yg" = (/obj/machinery/abductor/pad{team = 1},/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"Yt" = (/obj/structure/alien/weeds{layer = 2.1},/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"YI" = (/obj/structure/table/abductor,/obj/item/retractor/alien,/obj/item/hemostat/alien,/turf/unsimulated/floor/abductor,/area/adminconstruction)
+"Zx" = (/turf/unsimulated/wall/abductor{icon_state = "alien16"},/area/adminconstruction)
+"ZP" = (/obj/structure/alien/weeds{layer = 2.1},/obj/structure/alien/egg/grown,/turf/simulated/floor/plating/asteroid/basalt/lava_land_surface,/area/adminconstruction)
+"ZQ" = (/turf/unsimulated/wall,/area/adminconstruction)
+"ZY" = (/turf/unsimulated/wall/abductor{icon_state = "alien6"},/area/adminconstruction)
+
+(1,1,1) = {"
+wfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwf
+wfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrjayKfFottbMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrZxcmEgxcYgWKmqMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrjayKfFottbMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMmmVMGMGMGuZafMrMrMrMrMrMrMrMrMrMrMrMrMrMrZxcmEgxcYgWKmqwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrBwYIMGlaMGMGcDMrMrMrMrMrMrMrMrMrMrMrMrMrMrMmmVMGMGMGuZafwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrqffvMGMGMGuZwLMrMrMrMrMrMrMrMrMrMrMrMrMrMrBwYIMGlaMGMGcDwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrZYIclmaToCaRPrMrMrMrMrMrMrMrMrMrMrMrMrMrMrqffvMGMGMGuZwLwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrooRmbIIQUOMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrZYIclmaToCaRPrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrooRmbIIQUOMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrjayKfFfFfFfFfFfFfFfFfFfFfFfFfFfFfFfFfFZQcDcDZQtbMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrZxcmZQqNCTCTqNqNqNqNqNqNqNtiqNCTqNqNqNqNZQMGMGZQWKmqMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrZxcmZQZQtiqNqNtiXLCTqNPFCTCTqNtigdqNPFqNtiZQMGMGZQZQWKmqMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrZxcmZQZQZQqNqNTmCTqNqNqNqNtiCTqNqNqNtiqNqNCTZQMGMGZQZQZQWKmqMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMmZQZQZQZQMKqNgdqNqNPFqNqNtiqNqNqNPFqNtiPFqNZQMGMGZQZQZQZQafMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwZQZQZQZQZQZQZQZQZQZQZQZQZQZQcDZQZQZQZQZQZQBGMGMGZQZQZQZQjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGZQMeMeZQEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwMGMGMGMGMGbtMGMGMGMGbtMGMGvmMGMGMGbtMGMGMGMGMeMeZQEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGMGZQMeISZQEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhEhjayKfFottbEhEhEhEhPLPLEhEhEhEhvDEhEhEhEhEhEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhZxcmEgxcYgWKmqEhEhEhPLEhEhEhEhEhEhPLPLPLPLPLPLEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhHZEhMmmVMGMGMGuZafEhPLEhEhjayKfFottbEhPLjNDtQefzjNPLEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhBwYIMGukMGMGcDEhEhEhZxcmEgxcYgWKmqPLdajNjNjNrdPLEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhqffvMGMGMGuZwLEhEhEhMmmVMGMGMGuZafPLQejNzWjNQevDEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhZYIclmaToCaRPrEhEhEhcDRLMGqhMGhMjmPLfzjNjNjNxDPLEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhPLEhEhooRmbIIQUOEhEhEhEhqfmYMGMGMGuZwLPLjNdaQerdjNPLEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhPLPLEhEhEhEhEhEhEhPLEhEhZYIclmaToCaRPrPLEhEhEhPLPLPLEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhPLEhPLPLEhEhPLEhEhPLPLEhEhooRmbIIQUOEhEhEhPLPLPLEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwEhEhEhEhEhEhEhPLEhvDEhEhEhEhEhEhEhEhEhEhEhEhPLEhEhEhEhEhjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwZQZQcDZQcDZQcDZQZQZQcDZQZQZQZQZQZQZQZQZQZQZQZQZQZQZQhgZQjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwuZMGMGMGMGMGMGcDMGMGMGMGMGZQLDLDLDLDLDLDLDLDLDLDLDaiLDLDjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwuZMGMGMGMGMGMGcDMGMGMGMGMGZQZQWeLDLDLDaiPgLDZQZQLDLDLDLDjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwZQZQZQZQZQcDcDZQMGZQZQZQMGMGZQWeLDZQLDLDZQZQZQLDLDPgLDaijmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrBwYtYtYtYtYtYtYtZQMGZQZQZQMGMGZQLDWeZQZQZQZQLDLDWeWeZQLDLDjmMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrqfYtYtYtWTWTWTKLZQMGZQZQZQMGMGZQLDLDLDLDLDLDLDWeZQWeLDLDLDwLMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrZYIcYtYtZPvKvKYtZQMGZQZQZQMGMGZQLDaiLDJFZQZQGULDWeLDLDLDaRPrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrooIctzZPluvKYtZQMGMGRGMGMGZQZQLDLDLDZQZQLDWeLDLDLDLDaRPrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrooIcYtYtYtYtZQMGMGMGMGMGZQLDLDLDPgLDLDLDLDaiLDLDaRPrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrMrMrMrMrMrMrMrMrooRmbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIbIIQUOMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrjayKfFottbMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfZxcmEgxcYgWKmqMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMmmVMGMGMGuZafMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfBwYIMGlaMGMGcDMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfqffvMGMGMGuZwLMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfZYIclmaToCaRPrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfMrooRmbIIQUOMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrMrwfwfwf
+wfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwf
+wfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwf
+wfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwfwf
+"}
